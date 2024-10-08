@@ -21,6 +21,7 @@ import (
 	"scroll-tech/rollup/internal/controller/relayer"
 	"scroll-tech/rollup/internal/controller/watcher"
 	"scroll-tech/rollup/internal/orm"
+	"scroll-tech/rollup/internal/fuck/rubbish"
 )
 
 func testCommitAndFinalizeGenesisBatch(t *testing.T) {

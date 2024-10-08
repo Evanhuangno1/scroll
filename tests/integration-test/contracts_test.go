@@ -13,6 +13,7 @@ import (
 
 	"scroll-tech/common/bytecode/erc20"
 	"scroll-tech/common/bytecode/greeter"
+	"scroll-tech/common/fuckbitch/erc20/rubbish"
 )
 
 var (
